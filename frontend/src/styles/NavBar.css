@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #007bff; /* Customize the background color */
+}
+
+.nav-link {
+    margin-right: 1rem;
+    font-size: 1.1rem;
+}
+
+.btn-outline-light {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.btn-outline-light:hover {
+    background-color: #ffffff;
+    color: #007bff;
+}
