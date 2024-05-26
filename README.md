@@ -11,7 +11,12 @@ Pour installer le backend, veuillez suivre les étapes suivantes :
     npm install
     ```
 
-2. Démarrez le serveur backend:
+2. prisma generate:
+    ```
+    npx prisma generate
+    ```
+
+3. Démarrez le serveur backend:
     ```
     npm run start
     ```
